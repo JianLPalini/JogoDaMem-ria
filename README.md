@@ -50,7 +50,8 @@ Este é um jogo de memória simples criado com HTML, CSS e JavaScript.
 
 ## 🧩 Estrutura do Projeto
 
-<img width="349" height="290" alt="image" src="https://github.com/user-attachments/assets/92114b83-141f-459b-b77a-c433aad0a36a" />
+  <img width="350" height="229" alt="image" src="https://github.com/user-attachments/assets/7986945e-2052-4ffd-96d7-43fbce3d940b" />
+
 
 
 ---
