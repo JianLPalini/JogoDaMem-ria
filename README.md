@@ -50,16 +50,7 @@ Este é um jogo de memória simples criado com HTML, CSS e JavaScript.
 
 ## 🧩 Estrutura do Projeto
 
-jogo-memoria-sda/
-│
-├── index.html # estrutura da página
-├── assets/
-│ ├── styles/
-│ │ └── talento.css # estilos e animações
-│ └── JS/
-│ └── script.js # lógica do jogo
-└── README.md # esse arquivo
-
+<img width="349" height="290" alt="image" src="https://github.com/user-attachments/assets/92114b83-141f-459b-b77a-c433aad0a36a" />
 
 
 ---
